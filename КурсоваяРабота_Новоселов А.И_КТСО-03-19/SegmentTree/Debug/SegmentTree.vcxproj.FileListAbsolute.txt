@@ -1,0 +1,4 @@
+C:\Users\karba\source\repos\SegmentTree\Debug\SegmentTree.exe
+C:\Users\karba\source\repos\SegmentTree\Debug\SegmentTree.pdb
+F:\Учеба\Программирование\КурсоваяРабота_19К0051_ФедоровАВ_КТСО-02-19\SegmentTree\Debug\SegmentTree.exe
+F:\Учеба\Программирование\КурсоваяРабота_19К0051_ФедоровАВ_КТСО-02-19\SegmentTree\Debug\SegmentTree.pdb
